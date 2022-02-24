@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case of great and present use whether we may lawfully hear the now conforming ministers who are re-ordained and have renounced the Covenant and some of them supposed to be scandalous in their lives considered and affirmatively resolved / by a late eminent Congregational divine.</title>
+            <author>Nye, Philip, 1596?-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52590</idno>
+            <idno type="STC">Wing N1485</idno>
+            <idno type="STC">ESTC R469781</idno>
+            <idno type="EEBO-CITATION">11240469</idno>
+            <idno type="OCLC">ocm 11240469</idno>
+            <idno type="VID">47055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1447:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case of great and present use whether we may lawfully hear the now conforming ministers who are re-ordained and have renounced the Covenant and some of them supposed to be scandalous in their lives considered and affirmatively resolved / by a late eminent Congregational divine.</title>
+                  <author>Nye, Philip, 1596?-1672.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregationalism --  Controversial literature.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47055:1" rendition="simple:additions"/>
+            <p>A CASE OF <hi>Great</hi> and <hi>Preſent Vſe.</hi>
+            </p>
+            <p>Whether we may lawfully hear the now Conforming Mini<g ref="char:EOLhyphen"/>ſters, who are re-ordained, and have renounced the Co<g ref="char:EOLhyphen"/>venant, and ſome of them ſuppoſed to be ſcandalous in their Lives?</p>
+            <p>Conſidered, and Affirma<g ref="char:EOLhyphen"/>tively reſolved.</p>
+            <p>By a late Eminent Congregational Divine.</p>
+            <p>
+               <hi>London,</hi> Printed, for <hi>Jonathan Robin<g ref="char:EOLhyphen"/>ſon,</hi> at the Golden-Lyon in St. <hi>Pauls</hi> Church-yard. 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:47055:2"/>
+            <pb n="1" facs="tcp:47055:2"/>
+            <head>
+               <hi>The Caſe.</hi> Whether we may Lawfully hear the now Conforming Miniſters, who are Re-ordained, and have Renounced the Covenant, and ſome of them ſup<g ref="char:EOLhyphen"/>poſed to be Scandalous in their lives?</head>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>FOr the reſolution of this Caſe, there is a threefold Conſideration perti<g ref="char:EOLhyphen"/>nent.</p>
+               <div type="consideration">
+                  <head>
+                     <hi>Conſideration</hi> I.</head>
+                  <p>About the Duty it ſelf, <hi>Hearing the Word.</hi>
+                  </p>
+                  <p>There are four ways by which at this day the great God conveyeth the Knowledg of himſelf and his Mind unto ſinful Man: 1. His works of Creation and Providence: <hi>Pſal.</hi> 19.2. 2. The ſuggeſt of Conſcience, even the remainder of God's Image in us.
+<pb n="2" facs="tcp:47055:3"/>3. The word or Law of God Written, Ex<g ref="char:EOLhyphen"/>pounded or applyed in ordinary Preaching. 4. The Church, which is the <hi>Ground and Pillar of Truth,</hi> the Knowledg of God and his Mind is more eſpecially there held forth, by the gifts given, and Offices therein ap<g ref="char:EOLhyphen"/>pointed by Chriſt. Theſe are diſtinct ways and methods of God, by which he is pleaſed to make known himſelf: and we are obliged even by the Law of Nature to attend when God doth ſpeak; it is therefore an undoubted moral Duty, to attend the ſpeaking of God in whatſoever way by Providence brought unto us.</p>
+                  <p>The Scripture with the Interpretation and Application thereof, commonly termed <hi>Propheſying</hi> or <hi>Preaching,</hi> is one of the fore-mentioned means by which God makes known himſelf to us, this is a <hi>National</hi> gift according as God in his Providence ſhall diſpoſe: <hi>Pſal.</hi> 147.19, 20.</p>
+                  <p>Such <hi>National</hi> or Publick Preachers may be ſaid to have their Call from Chriſt, he having a hand in ordering the motions of Providence for the good of his Church: <hi>John</hi> 5.17. And particularly in this provi<g ref="char:EOLhyphen"/>dential ſending of Miniſters, <hi>Mat.</hi> 9.38. and this is the <hi>calling</hi> and <hi>ſending</hi> mentio<g ref="char:EOLhyphen"/>ned, <hi>Rom.</hi> 10.15. The Lord in theſe ad<g ref="char:EOLhyphen"/>miniſtrations, by Preachers thus ſent, <hi>accor<g ref="char:EOLhyphen"/>ding
+<pb n="3" facs="tcp:47055:3"/>to the good Pleaſure of his Will finds out a People before they ſeek him.</hi> This is a diſ<g ref="char:EOLhyphen"/>penſation of God to Men as his Creatures.</p>
+                  <div type="application">
+                     <head>For Application to the Caſe.</head>
+                     <p>The Word of God interpreted and ap<g ref="char:EOLhyphen"/>ply'd by preaching in this providential way, is a choice Mercy and Gift, wherewith God hath bleſſed this Nation for many years, to the Converſion and Edification of many thouſands. The Governors thereof have ſucceſſively according to their Light made divers good Laws and Statutes for Im<g ref="char:EOLhyphen"/>proving this Mercy for the beſt advantage of the Nation, as appears in that,</p>
+                     <p n="1">1. There are Schools and Univerſities maintained for the bringing up of Perſons in Learning; alſo there is a conſtant ſetled maintenance for incouraging of ſuch as ſhall be ſent out to the ſeveral parts of the Nati<g ref="char:EOLhyphen"/>on in this great work.</p>
+                     <p n="2">2. There is a ſum of Doctrinal Truths, which in the enlargement and application, are ſufficient both for Converſion and Edi<g ref="char:EOLhyphen"/>fication, which the Preachers are to aſſent; and there is proviſion made by our Laws that ſuch perſons only who are <hi>ſound in the Faith</hi> be imployed therein.</p>
+                     <p n="3">3. The Inhabitants of this Nation, are required to be preſent, and to give atten<g ref="char:EOLhyphen"/>dance
+<pb n="4" facs="tcp:47055:4"/>to Inſtruction, that they may <hi>Learn the Fear of the Lord.</hi>
+                     </p>
+                  </div>
+                  <div type="assertion">
+                     <head>Aſſertion.</head>
+                     <p>Theſe things being ſo, although ſome of us do enjoy the Inſtruction of our Paſtors being in a Church relation, yet it is a duty that we and our Families frequent alſo, (as we have Liberty and Opportunity, the more <hi>Publick</hi> and <hi>National</hi> Miniſtry) for theſe Reaſons.</p>
+                     <div n="1" type="reason">
+                        <head>
+                           <hi>Reaſon</hi> 1.</head>
+                        <p>Where the Lord hath appointed various ways and methods, in which he will draw near to us, and manifeſt himſelf, we ought to make uſe of all in their place and ſeaſon. This is a ſeveral and diſtinct way or ap<g ref="char:EOLhyphen"/>pointment of God, not only in reſpect of <hi>Gods works</hi> and our <hi>Conſciences;</hi> but alſo in reſpect of the <hi>teachings of Church Officers,</hi> as appears in theſe particulars.</p>
+                        <p n="1">1. The one is <hi>Cultus Naturalis,</hi> from the firſt Commandment, directed by the <hi>Light of Nature;</hi> and the other is <hi>Cultus In<g ref="char:EOLhyphen"/>ſtitutus,</hi> a duty of the ſecond Command<g ref="char:EOLhyphen"/>ment, and our direction herein is onely from <hi>Goſpel Light.</hi>
+                        </p>
+                        <p n="2">2. In reſpect of the Perſons that are the <hi>primary Object</hi> of each. <hi>Propheſying,</hi> that is, <hi>Church Preaching,</hi> ſerveth not for them that believe not, but for them which believe;
+<pb n="5" facs="tcp:47055:4"/>It is principally for building: for a Church State ſuppoſeth them Believers; though ſuch preaching hath occaſionally its efficacy is converting weak, and more directly in re<g ref="char:EOLhyphen"/>lation to the Children of Members. This <hi>National</hi> or <hi>Providencial preaching,</hi> is prin<g ref="char:EOLhyphen"/>cipally for Converſion, and hath for its primary and main object, perſons in their natural condition; ſuch a Preacher was <hi>Noah,</hi> 2 <hi>Pet.</hi> 2.5.1 <hi>Pet</hi> 4.6. <hi>Mat</hi> 16.3. Preaching is before believing, and believing before any Church Ordinance: There were Preachers in all Nations, and in every City, before there were Churches in every City.</p>
+                        <p n="3">3. The one is from <hi>Gifts</hi> only as neceſſa<g ref="char:EOLhyphen"/>rily requiſite, but <hi>Church Inſtruction</hi> ſuppo<g ref="char:EOLhyphen"/>ſeth the perſon to be not only of ſome emi<g ref="char:EOLhyphen"/>nency in <hi>Gifts,</hi> but <hi>Grace</hi> alſo, and ſet apart to office according to Chriſts appointment.</p>
+                        <p>And now having ſeen the difference of theſe two methods, the Conſequence will follow; they ought to be attended with due reverence each of them.</p>
+                     </div>
+                     <div n="2" type="reason">
+                        <head>
+                           <hi>Reaſon</hi> 2.</head>
+                        <p>As we are Members of <hi>Churches,</hi> ſo we are Subjects and Members of this <hi>Common-Wealth,</hi> and are obliged thereby to obſerve the lawful command of our Governors, and to be examples therein to others. As mem<g ref="char:EOLhyphen"/>bers alſo of this <hi>Civil</hi> body, we ought to
+<pb n="6" facs="tcp:47055:5"/>Joyn with it in a thankful acknowledging this happy Providence of God, by which we and our Children after us maybe in<g ref="char:EOLhyphen"/>ſtructed, which may be a means to have it continued, and a neglect thereof would give juſt cauſe to fear the contrary.</p>
+                     </div>
+                     <div n="3" type="reason">
+                        <head>
+                           <hi>Reaſon</hi> 3.</head>
+                        <p>
+                           <hi>If Church Members,</hi> or any <hi>one Godly Man</hi> hath a Warrant to forbear hearing ſuch Mi<g ref="char:EOLhyphen"/>niſters upon this account of unlawfulneſs, then all Godly men ought at all times ſo to do; and if ſo, the Examples of the Godly to the generality being very leading in the matters of God, this Ordinance thereby will be little frequented, and of leſs effica<g ref="char:EOLhyphen"/>cy to thoſe that do come to it. And by aſ<g ref="char:EOLhyphen"/>ſerting it unlawful to hear ſuch Miniſters, we imply, it were better for the Nation there were no preaching but in particular Churches; and if ſo, what can we expect will become of many thouſands in an ordi<g ref="char:EOLhyphen"/>nary way of Salvation that have no bene<g ref="char:EOLhyphen"/>fit at all by our Church-Inſtructions? We are to walk wiſely, yea, mercifully towards them that are without.</p>
+                     </div>
+                  </div>
+                  <div type="answers">
+                     <head>Objections Anſwered.</head>
+                     <div n="1" type="object">
+                        <head>Object. 1.</head>
+                        <p>
+                           <hi>Where there is no true Church, there can be no true Miniſtry: the Church of</hi> England <hi>is no true Church,</hi> Ergo, <hi>&amp;c.</hi>
+                        </p>
+                        <pb n="7" facs="tcp:47055:5"/>
+                        <div type="answer">
+                           <head>Anſwer.</head>
+                           <p>There may be a <hi>Lawful</hi> and <hi>True</hi> Mini<g ref="char:EOLhyphen"/>ſtry, or Adminiſtration of the ſaving truths of God, though the Nation, or any parcels of it as yet be in no <hi>Church-State.</hi> We ſay each <hi>particular Church</hi> materially conſide<g ref="char:EOLhyphen"/>red, is <hi>part</hi> of the <hi>Church Catholick.</hi> The <hi>matter</hi> muſt needs have being before the <hi>form</hi> can be introduced. No Man becomes a Member of the <hi>Catholick Church</hi> but by his effectual calling, and that is by preach<g ref="char:EOLhyphen"/>ing the Word. I conclude therefore each <hi>particular Church</hi> to have its production from ſuch an Adminiſtration, and not this Miniſtry to have its original or ſtate from the Church.</p>
+                        </div>
+                     </div>
+                     <div n="2" type="object">
+                        <head>Object. 2.</head>
+                        <p>
+                           <hi>The National Miniſtry is Antichriſtian, de<g ref="char:EOLhyphen"/>rived from</hi> Rome.</p>
+                        <div type="answer">
+                           <head>Anſwer.</head>
+                           <p>If <hi>Antichriſtian,</hi> its either ſo from their <hi>Standing,</hi> as deriving their Ordination thence, (of which in the <hi>third Conſideration,</hi>) or from their <hi>Doctrine:</hi> if any ſuch doctrine be preached, it's the miſcarriage of particu<g ref="char:EOLhyphen"/>lar perſons, and contrary to the National proviſion. The <hi>Articles of Religion,</hi> to which the Miniſters are to conform their Inſtructions, are Orthodox, and framed for the caſting and keeping out of Popery.</p>
+                        </div>
+                     </div>
+                     <pb n="8" facs="tcp:47055:6"/>
+                     <div n="3" type="object">
+                        <head>Object. 3.</head>
+                        <p>
+                           <hi>It offends our weak Brethren; it is a com<g ref="char:EOLhyphen"/>plying with the Corruption of the times, its an approbation and incouragement to Con<g ref="char:EOLhyphen"/>formity.</hi>
+                        </p>
+                        <div type="answer">
+                           <head>Anſwer.</head>
+                           <p>Theſe, and other Objections of the like nature, have their weight and place in pra<g ref="char:EOLhyphen"/>ctice when the matter is <hi>indifferent,</hi> and may be done or left undone without Sin, and not in relation to any <hi>moral</hi> duty. Though I know <hi>gathering</hi> of Churches in a <hi>Congregational</hi> way, preaching without Ordination, Baptizing of Infants and the like, as well as hearing a conforming-Mi<g ref="char:EOLhyphen"/>niſter, are a great offence to ſome that are truly Godly: yet may I not ſay, <hi>If ſuch a Fellowſhip, if ſuch baptizing, and the reſt, offend my Brother, I will do no ſuch thing while the World, ſtandeth leſt I ſhould offend.</hi> It were ſin ſo to reſolve, becauſe theſe are <hi>moral</hi> duties, and not left to my liberty, as Meats and the reſt, 1 <hi>Cor.</hi> 8.13. and <hi>Act.</hi> 8. wherein the nature of indifferent things is laid down.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div n="2" type="consideration">
+                  <p>
+                     <hi>Conſideration</hi> II.</p>
+                  <p>About <hi>refraining</hi> a <hi>Moral</hi> duty for the evil mixed with it, or in the perſons per<g ref="char:EOLhyphen"/>forming it.</p>
+                  <p n="1">1. As <hi>we are not to do evil that good may
+<pb n="9" facs="tcp:47055:6"/>come of it,</hi> no more ought we to leave what is <hi>morally</hi> good undone for the evil that is ſome way mixed with it. Zeal for good is to be preferred to that which is a<g ref="char:EOLhyphen"/>gainſt evil. The greateſt good is better than the greateſt evil is bad. Whatever good thing we do, tends towards our Union with the chiefeſt Good, the refraining of evil not ſo immediately.</p>
+                  <p n="2">2. Betwixt things <hi>indifferent,</hi> and what is <hi>morally</hi> good, you have this difference. If there be any mixture of evil with the one, it becomes wholly evil, there is nothing of good in it to give ſtop or preponderate; but what is morally good will remain ſo ſtill, though mixed with evil. We may allay the worth of it, as baſer Metals mixed with Gold, but yet it is Gold ſtill, and may be perfectly ſevered.</p>
+                  <p n="3">3. <hi>When I would do good,</hi> ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>evil is preſent with me.</hi> I cannot hear, or read, or pray, and the reſt, but with a mixture of Sin, yet upon this account I may not ceaſe from, or neglect a known du<g ref="char:EOLhyphen"/>ty, not though <hi>materially</hi> conſidered the evil accompanying being greater than the good; as in meditation, when blaſphe<g ref="char:EOLhyphen"/>mous thoughts ariſe, <hi>&amp;c.</hi> To omit a known duty is a ſin of wilfulneſs, the evil from me in it is but infirmity only; The leaſt <hi>wilful</hi>
+                     <pb n="10" facs="tcp:47055:7"/>ſin is greater and more provoking than the greateſt Sin of <hi>Infirmity.</hi>
+                  </p>
+                  <div type="application">
+                     <head>For application to the caſe.</head>
+                     <p n="1">1. Governors otherwiſe pious and zea<g ref="char:EOLhyphen"/>lous, yet not ſo knowing in matters of Church orders, may poſſibly in the diſcharg<g ref="char:EOLhyphen"/>ing of their duty, and doing this good work, occaſion a mixture of evil with it; Being perſwaded that <hi>Preachers</hi> and <hi>Preaching,</hi> will be accepted with more reverence, and become more effectual<g ref="char:punc">▪</g> if by perſons <hi>ordain<g ref="char:EOLhyphen"/>ed</hi> as well as <hi>examined</hi> and <hi>tryed,</hi> for their fitneſs, and if accompanied alſo with <hi>Set</hi> and <hi>Solemn Formes of Prayer</hi> and other <hi>
+                           <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>formities,</hi> they therefore by their Laws eſtabliſh and enjoyn theſe things. The perſons alſo appointed to this work (though not approving all that is impoſed) through infirmity yeild and ſubmit, rather than let ſo good a Work fall.</p>
+                     <p n="2">2. The things therefore objected as evils, by which ſome are deterred from hearing, are the <hi>infirmities</hi> of other men mixed with the duty; I ſay <hi>infirmities,</hi> for ſo in Charity we ought to judg. Now if I may not omit a duty in reſpect to the evil mixed with it, which is my own, much leſs may I thus leave an Ordinance for the evil that is ano<g ref="char:EOLhyphen"/>ther mans, no way mine, or to be charged upon me. This were to make another
+<pb n="11" facs="tcp:47055:7"/>mans ſins or infirmities more mine than my own.</p>
+                  </div>
+                  <div type="answers">
+                     <head>Objections Anſwered.</head>
+                     <div n="1" type="objection">
+                        <p>Object, 1.</p>
+                        <p>
+                           <hi>We cannot judg ſuch impoſition, and ſub<g ref="char:EOLhyphen"/>mitting to them, infirmities, eſpecially after ſo much Light and Reformation.</hi>
+                        </p>
+                        <div n="1" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 1.</head>
+                           <p>If the known <hi>Integrity</hi> and <hi>Piety</hi> of ſome of them who have <hi>Conformed</hi> is ſuch, that there is ground to hope what they have done herein is through want of Light, miſ<g ref="char:EOLhyphen"/>apprehenſion or the like <hi>Infirmity,</hi> we may then conclude that the groſsneſs, wilfulneſs, or whatſoever may make thoſe actions more than an <hi>Infirmity</hi> in any other <hi>Confor<g ref="char:EOLhyphen"/>miſt,</hi> muſt ariſe only from the internal frame or badneſs of the mind and intenti<g ref="char:EOLhyphen"/>ons, for externally they are the ſame. If ſo, then it is nothing at all to us; to them it is, <hi>Prov.</hi> 21.27. for in reſpect of the law<g ref="char:EOLhyphen"/>fulneſs of our joyning with the adminiſtra<g ref="char:EOLhyphen"/>tion, or unlawfulneſs, whether it be done with a better or worſe mind, is not obſer<g ref="char:EOLhyphen"/>vable by us; outward and viſible fins only pollute others that be in relation. If Envy, Pride, Hypocriſie, or the like evils of the mind did ſo, we mould be conſtantly guil<g ref="char:EOLhyphen"/>ty of other mens Sins, and without remedy.</p>
+                        </div>
+                        <div n="2" type="answer">
+                           <pb n="12" facs="tcp:47055:8"/>
+                           <head>
+                              <hi>Anſw.</hi> 2.</head>
+                           <p>Whatever Sins are in the perſon as to himſelf, they are to me but as Sins of In<g ref="char:EOLhyphen"/>firmity, that is, ſuch evils adhering to the worſhip as I have no power to prevent, I may and ought to mourn for ſuch mixtures, as for my own infirmities, but avoid them I cannot without I avoid the duty.</p>
+                        </div>
+                     </div>
+                     <div n="2" type="objection">
+                        <head>Object. 2.</head>
+                        <p>
+                           <hi>There is much Error mixed with the few Truths they Preach, as Popery, Arminianiſm,</hi> &amp;c <hi>There are alſo invective reflections,</hi> yea <hi>railings againſt the People of God.</hi>
+                        </p>
+                        <div n="1" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 1.</head>
+                           <p>What is <hi>morally</hi> good will bear the mix<g ref="char:EOLhyphen"/>ture of a great deal of evil, and yet retain its goodneſs ſtill: the goodneſs being from God, who is a greater good than Satan, or Sin, is an evil.</p>
+                        </div>
+                        <div n="2" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 2.</head>
+                           <p>We cannot expect from men of ordinary gifts that Truth be preached without the mixture of Errors more or leſs: We <hi>know but in part, therefore are to prove all things, and hold faſt that which it good, Heb.</hi> 5.14. A Saint, as other Creatures, though weak and newly born, hath a raft of what is Food ſuitable, and what ſincere.</p>
+                        </div>
+                        <div n="3" type="answer">
+                           <head>
+                              <hi>Anſw,</hi> 3.</head>
+                           <p>As for thoſe intemperate expreſſions and
+<pb n="13" facs="tcp:47055:8"/>reflections oh the People of God, I confeſs it is ſad, but were there not ſuch againſt <hi>Paul</hi> and his Party? <hi>Phil.</hi> 1.15. yet not<g ref="char:EOLhyphen"/>withſtanding they are to be heard even by the ſame perſons they enveighed againſt for the Truths ſake.</p>
+                        </div>
+                     </div>
+                     <div n="3" type="objection">
+                        <head>Object. 3.</head>
+                        <p>
+                           <hi>The lives of moſt of our</hi> Conformiſts <hi>are vile and abominable, full of Pride, Covetouſ<g ref="char:EOLhyphen"/>neſs, Luxury, Drunkenneſs: how can we expect a Bleſſing on their Labours, though they preach truth and good Things?</hi>
+                        </p>
+                        <p>
+                           <hi>Anſw.</hi> 1.</p>
+                        <p>The mixtures in Sermons are neareſt, the irregularities of their calling the next; the Sins, of their Conversions fartheſt from their Doctrine, and therefore have leſs efficacy at ſuch a diſtance to prejudice it.</p>
+                        <div n="2" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 2.</head>
+                           <p>Its God's Word, and not their own, they Preach. Truth is bleſſed from the Lord for its own ſake, and his whoſe it is. When Chriſt bleſſed his Diſciples with the pro<g ref="char:EOLhyphen"/>miſe of his preſence, <hi>Mat.</hi> 28.20. <hi>Lo I am with you always, even to the end of the World,</hi> it is to be applyed rather to their <hi>Doctrine</hi> then <hi>Perſons,</hi> for they were ſome<g ref="char:EOLhyphen"/>times left to humane Infirmities in their lives, and they lived not, <hi>to the end of the World.</hi> If it be not Truth, though an Angel
+<pb n="14" facs="tcp:47055:9"/>from Heaven bring it, no bleſſing will come with it; but if it be <hi>Chriſt</hi> that is preached, whoever is the inſtrument, there is matter of hope and rejoycing, <hi>Phil.</hi> 1.15, &amp;c. Some preached Chriſt who were not ſincere, though at the ſame time others who were blameleſs preached the ſame Truths. <hi>What then?</hi> ſaith <hi>Paul,</hi> verſ. 18. <hi>Notwithſtanding, every way Chriſt is preached, and therein do I rejoyce, and will rejoyce.</hi> Thoſe <hi>Peter</hi> mentions they <hi>fed the Flock,</hi> the Flock then heard them, and were inſtructed by them: yet we are told thoſe Miniſters were <hi>Covetous, Ambitious,</hi> took up their Miniſtry for <hi>filty Lucres ſake;</hi> And were <hi>Lords over Gods Heritage,</hi> More cannot be objected againſt our <hi>Miniſters</hi> that <hi>Conform,</hi> than might againſt the <hi>Scribes</hi> and <hi>Phariſees</hi> in <hi>Chriſts</hi> time; either in reſpect of their <hi>Doctrine,</hi> which was loaden with <hi>Traditi<g ref="char:EOLhyphen"/>ons;</hi> their <hi>Standing,</hi> which Was not accord<g ref="char:EOLhyphen"/>ing to <hi>Law,</hi> their <hi>lives,</hi> which were <hi>Vitious:</hi> yet <hi>Chriſt</hi> not only <hi>permits,</hi> but <hi>requires</hi> us to attend the Truths they deliver.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div n="3" type="consideration">
+                  <head>
+                     <hi>Conſideration</hi> III.</head>
+                  <p>About <hi>partaking</hi> with another mans ſins.</p>
+                  <p>This ariſeth from ſome <hi>ſpecial relation,</hi> as a <hi>moral touch:</hi> which is either in reſpect to the perſon tranſgreſſing, or the Sin it ſelf.</p>
+                  <p n="1">1. Out <hi>Relation</hi> to perſons, may either be
+<pb n="15" facs="tcp:47055:9"/>1. <hi>Tranſient,</hi> or <hi>Occaſional.</hi> For a man be<g ref="char:EOLhyphen"/>comes guilty with him that ſinneth, by <hi>ap<g ref="char:EOLhyphen"/>plauding, approving,</hi> or <hi>incouraging</hi> him in his Sin; <hi>Joh.</hi> 2.10, 11. <hi>Rom.</hi> 1.32. and in ſome caſes by <hi>ſilence,</hi> being preſent when ſome groſs Sin is openly committed. Or 2. Our <hi>Relation</hi> may be <hi>ſet</hi> and <hi>ſtated;</hi> either <hi>Civil,</hi> as between Parents and Chil<g ref="char:EOLhyphen"/>dren, Maſters and Servants, <hi>&amp;c.</hi> This will not be much to our purpoſe: or <hi>Sa<g ref="char:EOLhyphen"/>cred, viz.</hi> that <hi>Setled Relation</hi> that ariſeth from <hi>Goſpel-Communion,</hi> as in <hi>particular Churches</hi> between Officers and Members, and one Member with another. By vertue of this <hi>Relation,</hi> Sins are tranſmitted from one to another with the greateſt celerity and efficacy; <hi>A little Leaven leaveneth the whole Lump.</hi>
+                  </p>
+                  <p>The <hi>evil</hi> of another, and that <hi>duty</hi> we joyn in, may ſo <hi>relate,</hi> as I may partake of his e<g ref="char:EOLhyphen"/>vil, though I act nothing with him but what is a Duty on my part. Receiving of Rents and Tenantſhip are ſo neerly related, that if the perſon with whom I partake thus, have forfeited his Tenant-ſhip, and of right is no Tenant, yet by my accepting of Rent from him, I make him one not withſtanding his forfeiture. To exerciſe a Judicial Act, relates ſo much to the Perſon legally con<g ref="char:EOLhyphen"/>ſtituted a Judg, that if I ſubmit my Cauſe
+<pb n="16" facs="tcp:47055:10"/>to him that is not ſo, and ſuffer, I ſin a<g ref="char:EOLhyphen"/>gainſt my own Liberty. In each of theſe what I do is good, but <hi>partakes ſomewhat</hi> with the evil of another, In our <hi>Spiritual</hi> affairs, that is a full inſtance, 1 <hi>Cor.</hi> 10.18. <hi>They that eat of the Sacrifice partake of the Altar;</hi> that is, from the <hi>Relation</hi> and <hi>Con<g ref="char:EOLhyphen"/>nexion</hi> betwixt the Altar and the Gift. <hi>Mat.</hi> 23.19. <hi>The Altar ſanctifieth the Gift.</hi> It is either not a Sacrifice, or not a Lawful Sa<g ref="char:EOLhyphen"/>crifice, but by reaſon of the <hi>Altar.</hi>
+                  </p>
+                  <div type="application">
+                     <head>For Application to the Caſe.</head>
+                     <p n="1">1. My being preſent, and hearing of a <hi>Conformiſt,</hi> no <hi>Approbation</hi> of the evil of his <hi>Conformity,</hi> and ſo no <hi>Occaſional</hi> or <hi>Tran<g ref="char:EOLhyphen"/>ſient Relation</hi> is raiſed thereby. <hi>Approbati<g ref="char:EOLhyphen"/>on</hi> is an act of the mind or heart; It is not ſhewed to him or others by me, until it be <hi>expreſſed outwardly</hi> by my words or geſtures which I have not in this caſe any occaſion to do; his evil being done elſewhere, and formerly, and not in our preſence that now hear him.</p>
+                     <p n="2">2. Nor is there any <hi>Set</hi> or <hi>Standing Re<g ref="char:EOLhyphen"/>lation</hi> between him and me, though he Preach and I Hear him conſtantly: This creates no <hi>Church-fellowſhip</hi> or <hi>Communion.</hi> To Inſtruct and Learn, is an <hi>humane</hi> or
+<pb n="17" facs="tcp:47055:10"/>natural converſe, and differs not from teaching or learning any other faculty, though the Subject matter I hear be divine. It's true, by the addition of a <hi>ſpecial</hi> inſtitu<g ref="char:EOLhyphen"/>tion, it becomes a <hi>Church-Ordinance:</hi> ſo <hi>giving of Alms, viſiting of the Sick,</hi> and the like, which are actions of <hi>Common</hi> hu<g ref="char:EOLhyphen"/>manity, when brought under a <hi>ſpecial</hi> In<g ref="char:EOLhyphen"/>ſtitution do thereby become as much <hi>Church</hi>-Ordinances as <hi>Preaching.</hi> 2 <hi>Cor.</hi> 6.14. <hi>What fellowſhip hath Light with Darkneſs? or a Believer with an Infidel?</hi> that is, in <hi>Reſpect to Church Communion</hi> and <hi>fellowſhip,</hi> there is none: yet a <hi>Believer</hi> and an <hi>Infidel</hi> may Preach and Hear, may Teach and be Taught, <hi>Act.</hi> 17.1 <hi>Cor.</hi> 14. <hi>Rom.</hi> 1.13.</p>
+                     <p n="3">3. For any ſpecial <hi>Tincture</hi> derived from his evil to the Duty we perform with him; it muſt be either from the Sins of his <hi>Perſon,</hi> or his <hi>Ordination:</hi> The former hath been ſpoken to. As for the evil of his <hi>Ordi<g ref="char:EOLhyphen"/>nation,</hi> it relates not to his Preaching, by and ſuch near alliance, as that the one may not be done without the other. <hi>It is the duty of all Chriſtians</hi> (ſaith <hi>Ames</hi>) <hi>to do their utmoſt to advance the Kingdom of God, and therefore to teach others the Knowledg of God.</hi> Why may not a man Preach and In<g ref="char:EOLhyphen"/>ſtruct Others, if he be able, by <hi>word of mouth<g ref="char:punc">▪</g>
+                        </hi> as well as by <hi>Writing</hi> and <hi>Printing</hi> Theo<g ref="char:EOLhyphen"/>logical
+<pb n="18" facs="tcp:47055:11"/>Diſcourſes? This latter was never queſtioned by any ſober man.</p>
+                  </div>
+                  <div type="answers">
+                     <head>Objections Anſwered.</head>
+                     <div n="1" type="objection">
+                        <head>Object, 1.</head>
+                        <p>
+                           <hi>My prseſence at ſuch mens Preaching, if I be ſilent and give no Teſtimony agaiſt them, will be an encouragement to their Way.</hi>
+                        </p>
+                        <div n="1" type="answer">
+                           <head>Anſw. 1.</head>
+                           <p>If I had no other <hi>juſt</hi> and <hi>apparent</hi> reaſon for my being preſent, it might be ſo inter<g ref="char:EOLhyphen"/>preted, but my preſence <hi>relates,</hi> and ought ſo to be judged, unto the <hi>Word Preached.</hi> If I be preſent in ſome conſecreated place a<g ref="char:EOLhyphen"/>dorned with Images, to hear a Sermon, my preſence ought not to be interpreted a <hi>Countenancing</hi> thoſe <hi>Superſtitions,</hi> but the <hi>Preaching of Gods Word.</hi> When the <hi>Preach<g ref="char:EOLhyphen"/>ing of Chriſt,</hi> and a <hi>malicious</hi> Spirit, was in one man, <hi>Pauls</hi> rejoycing at the one, was no Countenancing of the other.</p>
+                        </div>
+                        <div n="2" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 2.</head>
+                           <p>We do not ſo eaſily derive guilt or pol<g ref="char:EOLhyphen"/>lution by being preſent or in the Company of Sinners, though we do not teſtify againſt them, when they are not in <hi>Spiritual Com<g ref="char:EOLhyphen"/>munion</hi> with us. <hi>A little Leaven leaveneth the whole Lump,</hi> but no more. The <hi>Con<g ref="char:EOLhyphen"/>tagion</hi> goeth no further than the <hi>Relation.</hi>
+                              <pb n="19" facs="tcp:47055:11"/>The Apoſtle, 1 <hi>Cor.</hi> 5.9. layeth down clearly this difference from that verſe to the end. He ſpeaks of <hi>judging,</hi> that is <hi>cenſu<g ref="char:EOLhyphen"/>ring</hi> of others, that we may prevent parta<g ref="char:EOLhyphen"/>king with them in the guilt. By <hi>judging,</hi> we are to underſtand not only the <hi>Cenſure</hi> it ſelf, but the <hi>telling our Brother,</hi> the <hi>re<g ref="char:EOLhyphen"/>proving, convincing,</hi> and other private du<g ref="char:EOLhyphen"/>ties in relation thereunto, and <hi>avoiding</hi> their Company afterwards: and it is applyed with diſtinction of perſons in reſpect of their relation to us: There are <hi>Fornicators of this World, ver.</hi> 10. and ſuch <hi>are without, ver.</hi> 12. Now there is not that obligation lying upon us to reprove their Sins, as <hi>if a Brother be a Fornicator, ver.</hi> 11. In ſome caſes we may be ſilent, and leave the for<g ref="char:EOLhyphen"/>mer to the <hi>Judgment of God, ver.</hi> 13. But in no caſe if he be a Brother.</p>
+                        </div>
+                        <div n="3" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 3.</head>
+                           <p>To <hi>Reprove</hi> or give <hi>Teſtimony</hi> againſt an evil, is a tender duty, and we may eaſily miſcarry if the rules thereof be not ſtrictly obſerved. 1. Eſpecially, if publick in the Face of a Congregation come together peaceably to worſhip God. 2. And the Perſon an Elder, at leaſt ſo reputed generally by the Congregation. 3. The Sin alſo muſt be a <hi>groſs</hi> Sin, and apparent ſo to the Aſ<g ref="char:EOLhyphen"/>ſembly. But if it be doubtful, as in our
+<pb n="20" facs="tcp:47055:12"/>Caſe, whether it be a Sin, or ſuch a Sin? whether committed upon the place, or for<g ref="char:EOLhyphen"/>merly we know not where, nor how long ſince? if poſſible he hath repented of it, or is able to clear himſelf at leaſt from the groſ<g ref="char:EOLhyphen"/>neſs of it? I ſay, in ſuch a caſe, were he a <hi>Bro<g ref="char:EOLhyphen"/>ther,</hi> and in this <hi>Relation,</hi> I have no <hi>Call</hi> to reprove, or give a publick teſtimony, in ſuch time or place eſpecially.</p>
+                        </div>
+                        <div n="4" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 4.</head>
+                           <p>This Objection renders not my coming to hear an evil, but my not reproving. I am the rather bound to come, for I have hereby not only an opportunity to receive, but to do good, if ſuch reproving be a duty.</p>
+                        </div>
+                     </div>
+                     <div n="2" type="object">
+                        <head>Object. 2.</head>
+                        <p>
+                           <hi>Ordination and Conformity, and Common-Prayers, and Ceremonies, are connexed with Preaching, as one intire Service; by partaking therefore of the one, we contract the pollution of the other.</hi>
+                        </p>
+                        <div n="1" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> I.</head>
+                           <p>What God himſelf in a <hi>moral</hi> way joyn<g ref="char:EOLhyphen"/>eth together, no man may ſeparate, only God himſelf: But what God in <hi>Nature</hi> hath joyned together, he gives us leave to ſeparate, as Chaff from Wheat, <hi>&amp;c.</hi> And ſo likewiſe for what man joyneth together, eſpecially in the Service of God, and ſuch
+<pb n="21" facs="tcp:47055:12"/>matters thereof as God, hath not required; A <hi>Set Liturgy</hi> or <hi>Stinted Form of Prayer</hi> for Matter and Words to be uſed (much leſs to be inſeparably joyned with Preaching) is not required by the Lord, nor indeed is there any ſuch neceſſary dependance by our Laws.</p>
+                        </div>
+                        <div n="2" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 2.</head>
+                           <p>
+                              <hi>Ordination</hi> is ſo <hi>neceſſarily</hi> connexed with Preaching, either by God or Man: Scripture-light mention <hi>Preaching</hi> and <hi>Hearing</hi> as duties, <hi>Rom.</hi> 10. whereas yet there could be no Ordination; Nor are they ſo inſeparably joyned by our Laws: But if they were, it is ſufficient to my Conſcience that God hath not ſo joyned them. Our actings, and the reaſons or grounds of them, are not to be interpreted in Church-Matters by Humane Laws; If they were, it would be difficult to inhabit in ſome Com<g ref="char:EOLhyphen"/>mon-wealths with a good Conſcience. Our living within the <hi>precincts</hi> of ſuch a <hi>Pa<g ref="char:EOLhyphen"/>riſh,</hi> our Laws interpret a being of the ſame <hi>particular Church</hi> with them for all <hi>Church-Ordinances:</hi> but this being mans Law only, we judg our ſelves not ſo neceſſa<g ref="char:EOLhyphen"/>rily involved by our habitation. A Church according to <hi>Scripture</hi> is a <hi>Spiritual body:</hi> The Limits are part of the eſſence and con<g ref="char:EOLhyphen"/>ſtitution of ſuch a body, and therefore ought
+<pb n="22" facs="tcp:47055:13"/>to be <hi>Spiritual</hi> and of the ſame nature, and not meerly <hi>humane;</hi> as is the diviſion of Pariſhes.</p>
+                        </div>
+                        <div n="3" type="answer">
+                           <head>
+                              <hi>Anſw.</hi> 3.</head>
+                           <p>To ſpeak more properly, we cannot ſay neerneſs by an external diſpoſition of things connexeth them anymore, than Unity makes kindred, or of one Blood. No, it muſt be where there is ſuch a dependency of things, that the being, at leaſtwiſe the <hi>orderly</hi> being of the one is not without the other. In this Senſe <hi>Baptizing, breaking of Bread,</hi> and other <hi>Ordinances</hi> that relate to, and neceſ<g ref="char:EOLhyphen"/>ſarily depend on an Office, and connexed with it; and ſo our being called thereunto, and inveſted therein; and if the perſon with whom I partake, be either not in ſuch an Office, or in any apparent diſorderly way, I partake with his Sin; ſo near are theſe Duties related in their <hi>orderly</hi> Adminiſtra<g ref="char:EOLhyphen"/>tion. But <hi>Preaching</hi> in a <hi>Providential</hi> way, as by perſons gifted, and out of their Cha<g ref="char:EOLhyphen"/>rity adminiſtring to us, or by Proviſion of the Magiſtrate, is altogether of another na<g ref="char:EOLhyphen"/>ture. And though <hi>Ordination</hi> and <hi>Preach<g ref="char:EOLhyphen"/>ing</hi> be joyned together in the vulgar eſteem; yet it's not the voice or ſanction of Man can bring things into a nearer Relation, than the Spirit hath ſet them.</p>
+                        </div>
+                     </div>
+                     <div n="3" type="objection">
+                        <pb n="23" facs="tcp:47055:13"/>
+                        <head>Object. 3.</head>
+                        <p>
+                           <hi>Why may we not as well go to Common-Prayer?</hi>
+                        </p>
+                        <div type="answer">
+                           <head>Anſw.</head>
+                           <p>If there were no other things to be obje<g ref="char:EOLhyphen"/>cted againſt thoſe Prayers, but <hi>Ordination, Conformity,</hi> or other Sins of the Miniſters, queſtionleſs we may: for we queſtion not to joyn with, them in Prayer before or after Sermon, more than with his <hi>Preaching.</hi>
+                           </p>
+                        </div>
+                     </div>
+                     <div n="4" type="objection">
+                        <head>Object. 4.</head>
+                        <p>
+                           <hi>Where there is any better Preaching then Ordinary, eſpecially in the City, it is ſo thron<g ref="char:EOLhyphen"/>ged, as by that time Prayers are ended, there is no hearing.</hi>
+                        </p>
+                        <div type="answer">
+                           <head>Anſw.</head>
+                           <p>It is one thing to abſtain upon ſuch an account which is <hi>prudential</hi> only, as upon the account of bodily infirmity: another thing to abſtain upon the opinion of unlaw<g ref="char:EOLhyphen"/>fulneſs. Now the thing contended for, is to vindicate the <hi>Lawfulneſs</hi> of hearing ſuch Miniſters, notwithſtanding what hath been objected to the contrary, and to deliver us from an error of very ill conſequence: for this Opinion, <hi>that it is unlawful to hear ſuch Miniſters as have been ſpoken of,</hi> is an er<g ref="char:EOLhyphen"/>ror of <hi>very ill</hi> conſequence, in <hi>many</hi> re<g ref="char:EOLhyphen"/>ſpects.</p>
+                           <pb n="24" facs="tcp:47055:14"/>
+                           <p n="1">1. It puts us upon ſuch ſingularity, as by which we divide in our practice, not only from our Brethren of the <hi>Presbyterian</hi> per<g ref="char:EOLhyphen"/>ſwaſion, but likewiſe from divers of the ſobereſt Separatiſts. Where a good Conſci<g ref="char:EOLhyphen"/>ence neceſſitates us in many things to differ from other Godly Brethren on each hand, it is a ſad Providence to have theſe differences increaſed by <hi>erronious</hi> Con<g ref="char:EOLhyphen"/>ſcience.</p>
+                           <p n="2">2. Except it be the <hi>reading of Scriptures,</hi> this Ordinance alone, of all other publick Ordinances amongſt us, hath by the good hand of God been kept and continued by our <hi>National</hi> Eſtabliſhment free in it ſelf from all diſputable Mixtures and Impoſi<g ref="char:EOLhyphen"/>tions; And the benefit and fruit of this Publick Miniſtry, hath accordingly been viſibly great, as in any part of the World. Let us fear therefore leſt we our ſelves now by raiſing <hi>groundleſs</hi> ſcruples, lay this as low, as others by their <hi>unwar<g ref="char:EOLhyphen"/>rantable</hi> additions have done the other pub<g ref="char:EOLhyphen"/>lick Ordinances.</p>
+                           <p n="3">3. In moſt of the miſperſwaſions of theſe later times, by which mens Minds have been corrupted, I find in whatſoever otherwiſe they differ one from another,
+<pb n="25" facs="tcp:47055:14"/>yet in this they agree, that its <hi>unlawful to hear in publick;</hi> Which I am perſwaded is one conſtant deſign of Satan in the variety of ways in Religion he hath ſet on Foot by Jeſuites amongſt us. Let us there<g ref="char:EOLhyphen"/>fore be the more aware of whatſoever tends that way.</p>
+                           <p n="4">4. Such reaſonings againſt <hi>hearing,</hi> though they convince not the unlawfulneſs of it, yet they leave ſuch prejudices in the minds of them which are tender, as perplex and render Hearing leſs profitable and edifying, even to thoſe that are perſwaded of its <hi>Lawfulneſs.</hi> To bring the lawfulneſs of known Ordinances under diſpute for ſome circumſtances affixed, hath ever been of great advantage to Satan, whether in ſuch diſputes he prevails or not: For men are either beaten wholly off from the duty, or perform it with a more remiſs and unſuta<g ref="char:EOLhyphen"/>ble Spirit, which lyeth more directly in the way to prevent a bleſſing, than the evils of others we ordinarily Object. Thoſe diſputes about the <hi>morality</hi> of the Sabbath, as they have prevailed with many to a <hi>total neglect,</hi> ſo with more to a <hi>remiſs obſervance,</hi> though convinced of it as a <hi>moral</hi> Duty. If for <hi>Subſtance</hi> the Duty be ſo
+<pb n="26" facs="tcp:47055:15"/>evident, as not to be liable to a diſpute in it ſelf (as this of Hearing is): then Satan faſtens Scruples about <hi>Circumſtances;</hi> which prevailing, we have as little benefit from the <hi>Ordinance</hi> or Duty, as if it were not.</p>
+                           <pb facs="tcp:47055:15"/>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
